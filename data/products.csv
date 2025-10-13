@@ -1,0 +1,71 @@
+id,title,category,tags,price
+1,Wireless Mouse,Electronics,"bestseller,discount,trending",96.06
+2,Bluetooth Speaker,Electronics,"premium,trending,new",77.58
+3,Smartwatch,Electronics,"bestseller,trending,value",37.71
+4,Gaming Keyboard,Electronics,"trending,eco,value",31.3
+5,Power Bank,Electronics,"value,premium,trending",46.2
+6,Laptop Sleeve,Electronics,"premium,trending,new",11.9
+7,Earbuds,Electronics,"new,value,eco",8.35
+8,Phone Case,Electronics,"new,premium,trending",96.46
+9,USB Cable,Electronics,"discount,bestseller,eco",38.73
+10,Webcam,Electronics,"trending,eco,new",15.67
+11,T-shirt,Fashion,"premium,trending,new",12.11
+12,Jeans,Fashion,"new,premium,bestseller",53.1
+13,Sneakers,Fashion,"trending,discount,premium",35.22
+14,Jacket,Fashion,"premium,eco,trending",84.87
+15,Watch,Fashion,"trending,discount,eco",90.0
+16,Sunglasses,Fashion,"eco,value,bestseller",91.15
+17,Handbag,Fashion,"premium,trending,new",78.95
+18,Cap,Fashion,"premium,discount,value",76.59
+19,Belt,Fashion,"discount,value,new",71.58
+20,Shoes,Fashion,"bestseller,trending,value",73.72
+21,Vacuum Cleaner,Home,"trending,new,bestseller",40.85
+22,Table Lamp,Home,"discount,trending,new",66.39
+23,Wall Clock,Home,"bestseller,premium,new",8.13
+24,Cushion Cover,Home,"value,discount,new",30.6
+25,Curtains,Home,"eco,value,premium",30.76
+26,Coffee Mug,Home,"premium,bestseller,new",82.02
+27,Dinner Set,Home,"premium,discount,eco",98.9
+28,Air Purifier,Home,"discount,premium,bestseller",38.13
+29,Toaster,Home,"eco,new,premium",78.09
+30,Kettle,Home,"premium,new,eco",12.46
+31,Yoga Mat,Sports,"premium,trending,discount",82.27
+32,Dumbbells,Sports,"premium,value,trending",67.64
+33,Skipping Rope,Sports,"new,bestseller,premium",19.31
+34,Cricket Bat,Sports,"new,discount,bestseller",92.12
+35,Football,Sports,"discount,new,trending",50.95
+36,Tennis Racket,Sports,"discount,eco,premium",26.93
+37,Running Shoes,Sports,"premium,eco,trending",99.89
+38,Water Bottle,Sports,"new,bestseller,discount",38.51
+39,Gym Gloves,Sports,"trending,value,discount",7.76
+40,Cycling Helmet,Sports,"new,eco,discount",97.28
+41,Face Wash,Beauty,"value,new,discount",56.67
+42,Shampoo,Beauty,"value,trending,new",76.76
+43,Conditioner,Beauty,"discount,value,premium",93.16
+44,Lipstick,Beauty,"value,new,eco",28.05
+45,Moisturizer,Beauty,"bestseller,premium,value",53.61
+46,Perfume,Beauty,"discount,eco,value",40.15
+47,Hair Oil,Beauty,"bestseller,premium,eco",63.6
+48,Body Lotion,Beauty,"trending,new,discount",12.19
+49,Nail Polish,Beauty,"new,discount,bestseller",16.64
+50,Sunscreen,Beauty,"new,value,trending",59.6
+51,Novel,Books,"premium,eco,bestseller",84.11
+52,Notebook,Books,"trending,new,bestseller",56.75
+53,Comics,Books,"new,bestseller,discount",78.37
+54,Cookbook,Books,"premium,bestseller,discount",13.76
+55,Self-help Book,Books,"value,new,discount",43.56
+56,Biography,Books,"trending,discount,bestseller",35.67
+57,Magazine,Books,"eco,bestseller,discount",73.46
+58,Travel Guide,Books,"value,new,bestseller",99.58
+59,Thriller Book,Books,"premium,eco,value",52.62
+60,Children’s Story Book,Books,"premium,new,value",35.4
+61,Rice Bag,Groceries,"new,value,discount",76.54
+62,Wheat Flour,Groceries,"new,value,discount",5.03
+63,Olive Oil,Groceries,"discount,trending,eco",8.72
+64,Honey,Groceries,"premium,value,eco",17.24
+65,Almonds,Groceries,"bestseller,eco,value",53.68
+66,Oats,Groceries,"discount,premium,trending",12.68
+67,Coffee Powder,Groceries,"bestseller,value,discount",65.01
+68,Green Tea,Groceries,"discount,bestseller,premium",97.38
+69,Cookies,Groceries,"eco,new,trending",59.1
+70,Cereal,Groceries,"premium,value,eco",27.27
