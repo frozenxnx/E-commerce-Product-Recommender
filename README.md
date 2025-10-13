@@ -16,8 +16,22 @@ An AI-powered e-commerce product recommender system that combines personalized r
 
 ## Project Structure
 
-<pre> ```plaintext ecommerce-recommender/ ├── app/ │ ├── llm_explainer.py # Gemini LLM explanation logic │ ├── main.py # FastAPI app entrypoint and API endpoints │ └── recommender.py # Recommendation engine ├── data/ │ ├── products.csv # Product catalog data │ └── user_behavior.csv # User interaction data ├── dashboard.py # Streamlit frontend dashboard ├── products.py # Additional data processing (optional) ├── user_behavior.py # Additional user data helpers (optional) ├── test.py # Test scripts (optional) ├── venv/ # Virtual environment ├── .env # Environment variables (API keys, etc) └── README.md # This documentation file ``` </pre>
----
+ecommerce-recommender/
+├── app/
+│   ├── llm_explainer.py       # Gemini LLM explanation logic
+│   ├── main.py                # FastAPI app entrypoint and API endpoints
+│   └── recommender.py         # Recommendation engine
+├── data/
+│   ├── products.csv           # Product catalog data
+│   └── user_behavior.csv      # User interaction data
+├── dashboard.py               # Streamlit frontend dashboard
+├── products.py                # Additional data processing (optional)
+├── user_behavior.py           # Additional user data helpers (optional)
+├── test.py                    # Test scripts (optional)
+├── venv/                      # Virtual environment
+├── .env                       # Environment variables (API keys, etc)
+└── README.md                  # This documentation file
+
 
 ## Setup Instructions
 
