@@ -15,7 +15,7 @@ An AI-powered e-commerce product recommender system that combines personalized r
 ---
 
 ## Project Structure
-
+```
 ecommerce-recommender/
 ├── app/
 │   ├── llm_explainer.py    # Gemini LLM explanation logic
@@ -31,7 +31,7 @@ ecommerce-recommender/
 ├── venv/                   # Virtual environment
 ├── .env                    # Environment variables (API keys, etc)
 └── README.md               # This documentation file
-
+```
 
 ## Setup Instructions
 
